@@ -1,0 +1,17 @@
+<!doctype html>
+<html>
+  <head>
+    <title>{{site.title}}</title>
+    <link rel="stylesheet" href="/assets/css/reset.css">
+    <link rel="stylesheet" href="/assets/css/main.css">
+  </head>
+  <body>
+    <div class="main-container">
+      {% include header.html %}
+      {% include navbar.html %}
+      <main class="content">
+        {{content}}
+      </main>
+    </div>
+  </body>
+</html>

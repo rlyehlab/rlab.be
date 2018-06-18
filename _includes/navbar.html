@@ -4,11 +4,12 @@
 
     {% for node in site_pages %}
       {% if node.group == "navigation" %}
-        {% assign url = node.url %}
-        {% if page.url == node.url %}
-          <li class="active"><a href="{{url}}">{{node.nav_text}}</a></li>
+	{% assign resolvedUrl = node.external_url | default: node.url  %}
+        
+	{% if page.url == node.url %}
+          <li class="active"><a href="{{resolvedUrl}}">{{node.nav_text}}</a></li>
         {% else %}
-          <li><a href="{{url}}">{{node.nav_text}}</a></li>
+          <li><a href="{{resolvedUrl}}">{{node.nav_text}}</a></li>
         {% endif %}
       {% endif %}
     {% endfor %}

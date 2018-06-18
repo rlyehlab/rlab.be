@@ -56,7 +56,7 @@ nav li {
   font-size: 1.2em;
   margin: 10px;
   text-align: center;
-  width: 100px;
+  width: 115px;
 }
 
 nav a:link, nav a:visited {
@@ -65,7 +65,7 @@ nav a:link, nav a:visited {
   display: inline-block;
   color: #000;
   font-weight: bold;
-  line-height: 20px;
+  line-height: 1.2em;
   padding: 8px;
   text-decoration: none;
   vertical-align: middle;

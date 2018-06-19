@@ -19,11 +19,13 @@ Manejamos dos tipos de donaciones:
 Todas las donaciones son anónimas, cuando publicamos nuestro balance no decimos
 quien nos dio, si no la cantidad de bonistas.
 
-
 # Bonos mensuales
 
 El bono mensual es por un monto superior a $500 , hoy tenemos hackers pagando
 bonos de $500 y de $1000, si queres aportar con otro valor avisanos!
+
+{:.button-donate}
+![MercadoPago](/assets/images/mercadopago.png) [Ayudar con bono mensual](http://mpago.la/oSDG)
 
 
 # Donaciones económicas esporádicas
@@ -31,6 +33,10 @@ bonos de $500 y de $1000, si queres aportar con otro valor avisanos!
 Tenemos nuestra cajita de donaciones, o podes dárselo a alguno de las
 [sudoers](https://wiki.rlab.be/doku.php?id=sudoers) en el espacio. Todos los
 montos nos ayudan a mantener el espacio, aporta cuando puedas :D <3
+
+{:.button-donate}
+![MercadoPago](/assets/images/mercadopago.png) [Donar una vez](http://mpago.la/puWu)
+
 
 # Donaciones de equipos/materiales
 
@@ -51,4 +57,5 @@ vamos a publicar los balances mensuales con el mayor detalle posible sin
 comprometer la privacidad de las donantes. Por ahora generar los balances es una
 tarea manual, así que puede ser que tardemos en publicar los balances porque
 lleva tiempo y depende del tiempo que puedan dedicar las leprechauns.
-
+Si creés que faltan datos o querés preguntarnos algo, podés
+[contactarte con nosotras](/contacto).

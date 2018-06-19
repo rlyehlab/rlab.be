@@ -2,15 +2,20 @@
 <html>
   <head>
     <title>{{site.title}}</title>
-    <link rel="stylesheet" href="/assets/css/reset.css">
+    <link rel="stylesheet" href="/assets/css/bootstrap-grid.css">
+    <link rel="stylesheet" href="/assets/css/bootstrap-reboot.css">
     <link rel="stylesheet" href="/assets/css/main.css">
   </head>
-  <body>
-    <div class="main-container">
+  <body class="container">
+    <div class="main-container container-fluid">
       {% include header.html %}
       {% include navbar.html %}
-      <main class="content">
+      <main class="content container-fluid">
+        <div class="row">
+          <div class="col-12">
         {{content}}
+      </div>
+    </div>
       </main>
     </div>
   </body>

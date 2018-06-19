@@ -27,8 +27,8 @@ a:hover {
 }
 
 .main-container {
-  width: 800px;
-  margin: 0 auto;
+  /* width: 800px;
+  margin: 0 auto; */
 }
 
 header a, header a:link, header a:visited {
@@ -49,6 +49,7 @@ header img {
 nav ul {
   background: #000;
   height: 55px;
+  padding-left: 0;
 }
 
 nav li {
@@ -56,7 +57,7 @@ nav li {
   font-size: 1.2em;
   margin: 10px;
   text-align: center;
-  width: 115px;
+  /* width: 115px; */
 }
 
 nav a:link, nav a:visited {
@@ -96,4 +97,3 @@ nav a:hover, nav li.active a:link, nav li.active a:visited {
 .content ul {
   margin-left: 20px;
 }
-

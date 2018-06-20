@@ -5,19 +5,23 @@
     <link rel="stylesheet" href="/assets/css/bootstrap-grid.css">
     <link rel="stylesheet" href="/assets/css/bootstrap-reboot.css">
     <link rel="stylesheet" href="/assets/css/main.css">
-    <link href="https://fonts.googleapis.com/css?family=Encode+Sans+Condensed:400,700" rel="stylesheet"> 
+    <link rel="stylesheet" href="/assets/css/fonts.css">
   </head>
-  <body class="container-fluid">
-    <div class="main-container container-fluid">
-      {% include header.html %}
-      {% include navbar.html %}
-      <main class="content container-fluid">
+  <body>
+    <div class="main-container container">
+      <div class="row encabezado">
+        {% include header.html %}
+        {% include navbar.html %}
+      </div>
+      <main class="content">
         <div class="row">
           <div class="col-12">
-        {{content}}
-      </div>
-    </div>
+            {{content}}
+          </div>
+        </div>
       </main>
     </div>
+
+    {% include init_scripts.html %}
   </body>
 </html>

@@ -1,0 +1,12 @@
+<script type="text/javascript" src="/assets/js/jquery-3.3.1.min.js"></script>
+<script type="text/javascript" src="/assets/js/donate_button.js"></script>
+<script type="text/javascript">
+  jQuery(function () {
+    var donationsOnce = new DonateButton(jQuery("#donations-once"));
+    var donationsMonthly = new DonateButton(jQuery("#donations-monthly"));
+
+    donationsOnce.render();
+    donationsMonthly.render();
+  });
+</script>
+

@@ -24,9 +24,7 @@ quien nos dio, si no la cantidad de bonistas.
 El bono mensual es por un monto superior a $500 , hoy tenemos hackers pagando
 bonos de $500 y de $1000, si queres aportar con otro valor avisanos!
 
-{:.button-donate}
-![MercadoPago](/assets/images/mercadopago.png) [Ayudar con bono mensual](http://mpago.la/oSDG)
-
+{% include donations-monthly.html %}
 
 # Donaciones económicas esporádicas
 
@@ -34,8 +32,7 @@ Tenemos nuestra cajita de donaciones, o podes dárselo a alguno de las
 [sudoers](https://wiki.rlab.be/doku.php?id=sudoers) en el espacio. Todos los
 montos nos ayudan a mantener el espacio, aporta cuando puedas :D <3
 
-{:.button-donate}
-![MercadoPago](/assets/images/mercadopago.png) [Donar una vez](http://mpago.la/puWu)
+{% include donations-once.html %}
 
 
 # Donaciones de equipos/materiales

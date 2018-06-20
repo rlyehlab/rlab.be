@@ -1,5 +1,5 @@
 body {
-  font-family: sans-serif;
+  font-family: 'Encode Sans Condensed', sans-serif;
   font-size: 13px;
 }
 
@@ -17,6 +17,10 @@ h1 {
   margin: 15px 0;
 }
 
+a {
+  color: #005231;
+}
+
 a:link, a: visited {
   color: #000;
   text-decoration: none;
@@ -26,16 +30,12 @@ a:hover {
   color: #aeaeae;
 }
 
-.main-container {
-  /* width: 800px;
-  margin: 0 auto; */
-}
-
 header a, header a:link, header a:visited {
   color: #000;
-  font-size: 4em;
-  font-weight: bold;
+  font-size: 3em;
+  /*font-weight: bold;*/
   text-decoration: none;
+  text-transform: uppercase;
 }
 
 header a:hover {
@@ -47,7 +47,7 @@ header img {
 }
 
 nav ul {
-  background: #000;
+/*  background: #0e8656;*/
   height: 55px;
   padding-left: 0;
 }
@@ -61,10 +61,10 @@ nav li {
 }
 
 nav a:link, nav a:visited {
-  background: #efefef;
+  /* background: #005231; */
   border-radius: 8px;
   display: inline-block;
-  color: #000;
+  color: #005231;
   font-weight: bold;
   line-height: 1.2em;
   padding: 8px;
@@ -74,7 +74,10 @@ nav a:link, nav a:visited {
 }
 
 nav a:hover, nav li.active a:link, nav li.active a:visited {
-  background: #aeaeae;
+  /* background: #aeaeae;
+  border-bottom: #005231 solid 1px;*/
+  background: #005231;
+  color: #fff;
 }
 
 .content p, .content pre, .content ul {
@@ -96,4 +99,9 @@ nav a:hover, nav li.active a:link, nav li.active a:visited {
 
 .content ul {
   margin-left: 20px;
+}
+.row.encabezado {
+  align-items: flex-end;
+  padding-bottom: 10px;
+  border-bottom: rgba(38,155,108,0.9) solid 3px;
 }

@@ -16,8 +16,8 @@ Manejamos dos tipos de donaciones:
   * Bonos mensuales
   * Donaciones esporádicas
 
-Todas las donaciones son anónimas, cuando publicamos nuestro balance no decimos
-quien nos dio, si no la cantidad de bonistas.
+Todas las donaciones son anónimas, cuando publicamos nuestro balance no
+revelamos nombres o filiaciones, sino la cantidad de bonistas.
 
 # Bonos mensuales
 

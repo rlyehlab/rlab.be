@@ -12,6 +12,8 @@ github_username:  jekyll
 # Build settings
 markdown: kramdown
 theme: minima
+include:
+  - .well-known
 plugins:
 
 # Exclude from processing.

@@ -1,0 +1,16 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Canonical: https://rlab.be/.well-known/security.txt
+Policy: https://adm.rlab.be/security
+Preferred-Languages: es, en
+Contact: mailto:admin@rlab.be
+Encryption: openpgp4fpr:f6038ec86f6d82ab8c128d31daa3db31fcb116dc
+Acknowledgments: https://adm.rlab.be/security/hof
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQQZelKzQ7uD/1QA+jZa2hUMSSjYUAUCXJHNWgAKCRBa2hUMSSjY
+UPGfAQD9YZbCF3CEx5BVIUAxRJggmC9avjoFB8VctwzCNSHxqAD7B+MMRlgakJt0
+aKPMsds+jXMywY3iSrOE4Fd0vsLdyQs=
+=7Jat
+-----END PGP SIGNATURE-----

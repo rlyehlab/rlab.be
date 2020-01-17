@@ -26,7 +26,7 @@ Llave PGP: [0xC9D519D74A18022B](https://keys.fedoraproject.org/pks/lookup?op=get
 
 # Canal de Telegram
 
-El canal de telegram es público sumate en @RlyehLab
+El canal de telegram es público sumate en [@RlyehLab](https://t.me/RlyehLab)
 
 
 

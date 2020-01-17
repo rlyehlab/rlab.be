@@ -16,18 +16,7 @@ Dirección: [contacto@rlab.be](mailto:contacto@rlab.be)
 
 Llave PGP: [0xC9D519D74A18022B](https://keys.fedoraproject.org/pks/lookup?op=get&search=0xC9D519D74A18022B)
 
-# Canal de IRC
 
-Podés entrar a IRC por el [web chat](https://chat.rlab.be/), o conectarte al
-servidor con los datos siguientes:
-
-```
-Server: irc.kernelpanic.com.ar
-Onion: kpanicfz4v7lrsrv.onion
-Puerto: 6697
-SSL: sí
-Canal: #rlyeh_hacklab
-```
 
 # Redes sociales
 
@@ -37,7 +26,7 @@ Canal: #rlyeh_hacklab
 
 # Canal de Telegram
 
-El canal de telegram es un anillo de confianza, vení al lab y te agregamos :)
+El canal de telegram es público sumate en @RlyehLab
 
 
 

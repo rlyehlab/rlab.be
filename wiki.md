@@ -1,10 +1,14 @@
 ---
 layout: home
 title: Wiki
-permalink: "https://wiki.rlab.be"
+permalink: /wiki/
 group: navigation
 nav_text: "Wiki"
 nav_order: 5
-external_url: "https://wiki.rlab.be"
 ---
 
+Tenemos una muy bella wiki que fuimos armando a lo largo del tiempo pero actualmente se encuentra caída.
+
+Estamos teniendo complicaciones con el servidor donde está alojada.
+
+Esperemos que vuelva pronto!

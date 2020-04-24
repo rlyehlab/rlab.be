@@ -29,7 +29,7 @@ bonos de $500 y de $1000, si queres aportar con otro valor avisanos!
 # Donaciones económicas esporádicas
 
 Tenemos nuestra cajita de donaciones, o podes dárselo a alguno de las
-[sudoers](https://wiki.rlab.be/doku.php?id=sudoers) en el espacio. Todos los
+sudoers en el espacio. Todos los
 montos nos ayudan a mantener el espacio, aporta cuando puedas :D <3
 
 {% include donations-once.html %}
@@ -49,7 +49,7 @@ alguno de los [medios donde estamos](/contacto).
 # Política de transparencia
 
 Nuestra intención es que el manejo de las
-[finanzas](https://wiki.rlab.be/doku.php?id=finanzas) sea transparente, por eso
+finanzas sea transparente, por eso
 vamos a publicar los balances mensuales con el mayor detalle posible sin
 comprometer la privacidad de las donantes. Por ahora generar los balances es una
 tarea manual, así que puede ser que tardemos en publicar los balances porque

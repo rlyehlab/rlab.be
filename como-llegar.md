@@ -10,8 +10,8 @@ nav_order: 2
 El lab esta ubicado en Uruguay y Bartolomé Mitre en la Ciudad Autónoma de
 Buenos Aires. Es un espacio de aprendizaje, construcción y trabajo horizontal,
 podés venir a trabajar en tus proyectos en cualquier momento que esté
-[abierto](https://wiki.rlab.be/doku.php?id=apertura-del-lab) o a cualquiera de
-las actividades. Si no tenes la direccion, [pedinosla por algún medio](https://wiki.rlab.be/doku.php?id=comunicacion).
+abierto o a cualquiera de
+las actividades. Si no tenes la direccion, pedinosla por algún medio.
 
 Tanto el ingreso al lab como las actividades son gratuitas. Funcionamos con un
 sistema de donaciones, así que si querés ayudarnos a que el espacio siga abierto

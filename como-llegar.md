@@ -6,23 +6,18 @@ group: navigation
 nav_text: "Cómo llegar"
 nav_order: 2
 ---
+El lab está ubicado en Uruguay y Bartolomé Mitre en la Ciudad Autónoma de Buenos Aires. 
+Es un espacio de aprendizaje, construcción y trabajo horizontal. 
 
-El lab esta ubicado en Uruguay y Bartolomé Mitre en la Ciudad Autónoma de
-Buenos Aires. Es un espacio de aprendizaje, construcción y trabajo horizontal,
-podés venir a trabajar en tus proyectos en cualquier momento que esté
-abierto o a cualquiera de
-las actividades. Si no tenes la direccion, pedinosla por algún medio.
+Actualmente nos estamos juntando únicamente por vías digitales ya que creemos que el 
+distanciamiento físico (no social) es un buen método para evitar la propagación vertiginosa del 
+coronavirus en nuestra comunidad. 
 
-Tanto el ingreso al lab como las actividades son gratuitas. Funcionamos con un
-sistema de donaciones, así que si querés ayudarnos a que el espacio siga abierto
-podes hacerlo con [bonos mensuales o donaciones esporádicas](/donaciones).
+Podés unirte a nuestro [canal de telegram](/contacto/) en cualquier momento y proponer alguna 
+actividad o proyecto para realizar de forma virtual,  o contactarnos directamente [por mail](/contacto/).
 
-Si querés venir a socializar, la mejor idea es que lo hagas uno de los días
-específicos para eso. La gente que viene a trabajar puede que este ocupada y no
-pueda responderte de manera extensa, no tomes esto como algo malo :) Revisá
-nuestras [redes sociales](/contacto) para estar al tanto de las últimas
-novedades.
+Funcionamos con un sistema de donaciones, en este tiempo que no tenemos visitas 
+en el espacio si querés ayudarnos a que el espacio siga abierto podes hacerlo 
+con bonos mensuales o en formato de donación esporádica.
 
-También podés revisar la [Agenda](https://agenda.rlab.be/) para enterarte sobre
-las actividades programadas.
-
+¡Nos encontraremos cuando las actividades se puedan reactivar de forma responsable y segura!

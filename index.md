@@ -19,7 +19,7 @@ basadas en la competencia y se defiende el uso y desarrollo de software libre y
 anti capitalista.
 
 Queremos que el hacklab sea un espacio seguro, por eso te pedimos que antes de venir
-leas el Código de Conducta y Antiacoso.
+leas el [Código de Conducta y Antiacoso](/codigos).
 Es importante que lo respetes y lo hagas respetar. Si ves alguna situación de
 conflicto o algo te incomoda en el espacio, tenemos un
 protocolo de resolución de conflictos

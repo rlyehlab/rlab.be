@@ -12,9 +12,14 @@ las redes sociales y el canal de telegram.
 
 # Email de contacto
 
-Dirección: [contacto@rlab.be](mailto:contacto@rlab.be)
+Dirección:   
+[contacto@rlab.be](mailto:contacto@rlab.be)
 
-Llave PGP: [0xC9D519D74A18022B](https://keys.fedoraproject.org/pks/lookup?op=get&search=0xC9D519D74A18022B)
+Llave PGP:   
+0x48B2FD5B38109A87   [rlab-llave-publica.txt](../rlab-llave-publica.txt)   
+
+Fingerprint:   
+7ACA 6B87 E24D B852 F98D  BF1A 48B2 FD5B 3810 9A87
 
 
 
@@ -22,11 +27,9 @@ Llave PGP: [0xC9D519D74A18022B](https://keys.fedoraproject.org/pks/lookup?op=get
 
 [Twitter](https://twitter.com/rlyehlab)
 
-[Diaspora](https://diaspora.com.ar/people/646853b09a1d0135074400145e5c073c)
+# Grupo de Telegram
 
-# Canal de Telegram
-
-El canal de telegram es público sumate en [@RlyehLab](https://t.me/RlyehLab)
+El Grupo de telegram es público sumate en [@RlyehLab](https://t.me/RlyehLab)
 
 
 

@@ -68,6 +68,6 @@ Propondremos y teclearemos otro software: malicioso, obrero y antisistema.
 
 Crearemos bardo. Ese es nuestro commit.
 
-Sostendremos hackeando y pusheando un espacio de
-Resistencia, Libertad, Autonomía y Bytes
+Sostendremos hackeando y pusheando un espacio de   
+Resistencia, Libertad, Autonomía y Bytes   
 RLAB

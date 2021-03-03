@@ -10,14 +10,25 @@ Sitio principal del hacklab. Publicado en https://rlab.be
 * Buildear la aplicación
 
 ```
-$ bundle install
+bundle install
+```
+
+o
+
+```
+bundle config set --local path 'vendor/bundle'
+bundle install
 ```
 
 * Correr jekyll en modo servidor
 
 ```
-$ jekyll serve
+jekyll serve
 ```
+
+o
+
+`bundle exec jekyll serve`
 
 o en caso de error `Prepending `bundle exec` to your command may solve this.` ejecutar como:
 `RUBYOPT='-W0' bundle exec jekyll serve`

@@ -4,10 +4,9 @@ title: Manifiesto
 permalink: /manifiesto/
 group: navigation
 nav_text: "Manifiesto"
-nav_order: 4
+nav_order: 1
 ---
 
-</
 ## Manifiesto RLAB
 
 El contrapunto y el compromiso de RLAB construye y apunta a hackear la programación subjetiva; alterar, intervenir y collagear el código-arte. Desea reapropiarse de las prácticas de aceleración y de desaceleración. 
@@ -72,5 +71,3 @@ Crearemos bardo. Ese es nuestro commit.
 Sostendremos hackeando y pusheando un espacio de
 Resistencia, Libertad, Autonomía y Bytes
 RLAB
-
-/>

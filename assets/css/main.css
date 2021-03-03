@@ -159,3 +159,8 @@ nav a:hover, nav li.active a:link, nav li.active a:visited {
   vertical-align: middle;
 }
 
+.content-Manifiesto {
+  max-width: 780px;
+  margin: 0 auto;
+  padding-top: 20px;
+}

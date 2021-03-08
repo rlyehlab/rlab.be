@@ -53,4 +53,13 @@ Si ves que alguien está siendo acosada/o por favor seguir el [protocolo de conf
 Si estas siendo acosada, por favor primero pedile que pare; si no lo hace, pedile que se vaya y
 buscá a una persona de confianza que te pueda ayudar.
 
+## Licencia y atribuciones
+
+Este código de conducta esta licenciado bajo
+[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.es).
+
+Es una traducción y adaptación al contexto nacional de la
+ _[Anti-harassment policy](https://geekfeminism.wikia.org/wiki/Conference_anti-harassment/Policy)_
+de Geek Feminism.
+
 #~/

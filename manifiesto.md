@@ -11,13 +11,13 @@ nav_order: 1
 
 El contrapunto y el compromiso de RLAB construye y apunta a hackear la programación subjetiva; alterar, intervenir y collagear el código-arte. Desea reapropiarse de las prácticas de aceleración y de desaceleración. 
     
-Nuestro deseo vectoriza hacia lo encriptable y lo imperceptible. Devenir molecular invisible para renacer, reformular, refractar críticamente los modos de ser impuestos: individuxs en grupos de trabajo en construcción horizontal militando la soberanía tecnológica.
+Nuestro deseo vectoriza hacia lo encriptable y lo imperceptible; devenir molecular invisible para renacer, reformular, refractar críticamente los modos de ser impuestos: individuxs en grupos de trabajo en construcción horizontal militando la soberanía tecnológica.
 
 Hackers, artivistas y activistas, creando tecnología política anticapitalista inclusiva, compartiendo espacios virtuales y no-virtuales abiertxs a participaciones activas y comprometidas. 
     
 **Sobre el contexto**
 
-Bajo el influjo de las leds ultravioleta que nos dejarán expuestos y conscientes de la tecnocracia que nos invade, buscaremos el acceso distribuido, descentralizado, anticapitalista a la tecnología y la información, sorteando el control de perverso del mercado y la biopolítica.
+Bajo el influjo de las leds ultravioleta que nos dejarán expuestxs y conscientes de la tecnocracia que nos invade, buscaremos el acceso distribuido, descentralizado, anticapitalista a la tecnología y la información, sorteando el control perverso del mercado y la biopolítica.
     
 Contra el realismo capitalista de la única alternativa, la zombificación: hackear la > []> []programación subjetiva; alterar, intervenir y collagear el código-arte.
 
@@ -37,16 +37,16 @@ Estamos en red con la idea de difundir el software libre, la autogestión y gene
     
 La comunidad es potencia sensible, solidaria y conflictiva que se encuentra capturada en medio de una pandemia global aceleracionista.  Sostendremos una comunidad bajo la militancia cyborg-afectiva, que cuadre con el autocuidado que nos merecemos sin responder a la notificación constante del sistema.
     
-[Códigos de convivencia copyleft](/codigos). Dispuestxs a incluir, commitear y mergear proyectos entre todes, libres de las torcidas mecánicas sociales del capitalismo.
+Códigos de convivencia copyleft. Dispuestxs a incluir, commitear y mergear proyectos entre todes, libres de las torcidas mecánicas sociales del capitalismo.
     
-Nos reinventamos luego de haber atravesado situaciones que enfrentamos de la forma que pudimos: aprendimos a fuerza de autocrítica y de forjar códigos de convivencia.
+Nos reinventamos luego de haber atravesado situaciones que enfrentamos de la forma que pudimos: aprendimos a fuerza de autocrítica y de forjar [códigos de convivencia](/codigos).
 
 
 **Sobre el deseo**
 
 **Queremos una liberación política-cultural y una tecnología social al servicio crítico de nuestras camaradas del mundo.**
     
-*```Los servidores, cables, papeles llenos de plasticola, glitter, recortes y los routers que nos conectan exponen la misma lucha de transformación social.  
+*```Los servidores, cables, papeles llenos de plasticola, glitter, recortes y los rúters que nos conectan exponen la misma lucha de transformación social.  
 Queremos un nuevo mundo posible, el oasis prometido de los 90 actualizado a su versión PostPandemic 2.1.
 Seremos cyborgs vestidxs de rojo y negro, cables y placas; cyborgs reflexionando y tecleando nuevos códigos para revertir los efectos de un mundo lleno de virtualidades. ```*
 

@@ -37,7 +37,7 @@ Estamos en red con la idea de difundir el software libre, la autogestión y gene
     
 La comunidad es potencia sensible, solidaria y conflictiva que se encuentra capturada en medio de una pandemia global aceleracionista.  Sostendremos una comunidad bajo la militancia cyborg-afectiva, que cuadre con el autocuidado que nos merecemos sin responder a la notificación constante del sistema.
     
-Códigos de convivencia copyleft. Dispuestxs a incluir, commitear y mergear proyectos entre todes, libres de las torcidas mecánicas sociales del capitalismo.
+[Códigos de convivencia copyleft](/codigos). Dispuestxs a incluir, commitear y mergear proyectos entre todes, libres de las torcidas mecánicas sociales del capitalismo.
     
 Nos reinventamos luego de haber atravesado situaciones que enfrentamos de la forma que pudimos: aprendimos a fuerza de autocrítica y de forjar códigos de convivencia.
 

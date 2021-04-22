@@ -7,8 +7,9 @@ nav_text: "Wiki"
 nav_order: 5
 ---
 
-Tenemos una muy bella wiki que fuimos armando a lo largo del tiempo pero actualmente se encuentra caída.
+Finalmente pudimos recuperar el proyecto **wiki** del lab!
 
-Estamos teniendo complicaciones con el servidor donde está alojada.
+La wiki antigua está en proceso de recuperación, pronto dejaremos un link a su
+contenido como para que forme parte del material histórico del lab.
 
-Esperemos que vuelva pronto!
+La nueva wiki se encuentra aca: [wiki.rlab.be](https://wiki.rlab.be)

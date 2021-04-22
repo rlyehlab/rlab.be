@@ -5,7 +5,7 @@ nav_text: "Inicio"
 nav_order: 1
 ---
 
-R'lyeh es un [hacklab](https://endefensadelsl.org/hacklabs-y-hackerspaces.html)
+RLab es un [hacklab](https://endefensadelsl.org/hacklabs-y-hackerspaces.html)
 que funciona en la Ciudad Autónoma de Buenos Aires.
 
 Es un espacio físico para hackear, aprender a hackear, enseñar a hackear, crear,
@@ -23,5 +23,6 @@ leas el [Código de Conducta y Antiacoso](/codigos).
 Es importante que lo respetes y lo hagas respetar. Si ves alguna situación de
 conflicto o algo te incomoda en el espacio, tenemos un
 protocolo de resolución de conflictos
-para resolver estas situaciones y que no se repitan. Todos estos materiales los tenemos publicados en el [canal de telegram](/contacto/).
+para resolver estas situaciones y que no se repitan.
+Todos estos materiales los tenemos publicados en el [grupo de telegram](/contacto/).
 

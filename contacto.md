@@ -4,7 +4,7 @@ title: Contacto
 permalink: /contacto/
 group: navigation
 nav_text: "Contacto"
-nav_order: 4
+nav_order: 7
 ---
 
 Los medios oficiales de comunicación son el email de contacto, el canal de irc,

@@ -4,7 +4,7 @@ title: Wiki
 permalink: /wiki/
 group: navigation
 nav_text: "Wiki"
-nav_order: 5
+nav_order: 4
 ---
 
 Finalmente pudimos recuperar el proyecto **wiki** del lab!

@@ -4,7 +4,7 @@ title: Donaciones
 permalink: /donaciones/
 group: navigation
 nav_text: "Donaciones"
-nav_order: 3
+nav_order: 5
 ---
 
 El hacklab es un espacio independiente y autosustentado, no recibimos dinero de

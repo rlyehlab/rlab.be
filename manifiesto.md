@@ -4,7 +4,7 @@ title: Manifiesto
 permalink: /manifiesto/
 group: navigation
 nav_text: "Manifiesto"
-nav_order: 1
+nav_order: 2
 ---
 
 ## Manifiesto RLAB

@@ -4,7 +4,7 @@ title: Códigos de convivencia
 permalink: /codigos/
 group: navigation
 nav_text: "Códigos"
-nav_order: 99
+nav_order: 3
 ---
 
 #~

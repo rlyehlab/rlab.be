@@ -4,7 +4,7 @@ title: Cómo llegar
 permalink: /como-llegar/
 group: navigation
 nav_text: "Cómo llegar"
-nav_order: 2
+nav_order: 6
 ---
 El lab está ubicado en Uruguay y Bartolomé Mitre en la Ciudad Autónoma de Buenos Aires. 
 Es un espacio de aprendizaje, construcción y trabajo horizontal. 

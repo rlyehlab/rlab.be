@@ -1,5 +1,5 @@
-<nav class="col-12 col-lg-6">
-  <ul class="d-flex justify-content-center">
+<nav class="col-12 col-lg-6" id="menu">  
+  <ul class="d-flex justify-content-center mobile-menu">
     {% assign site_pages = site.pages | sort:"nav_order" %}
 
     {% for node in site_pages %}

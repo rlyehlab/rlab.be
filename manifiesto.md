@@ -5,6 +5,7 @@ permalink: /manifiesto/
 group: navigation
 nav_text: "Manifiesto"
 nav_order: 2
+pagina_externa: https://manifiesto.rlab.be/
 ---
 
 ## Manifiesto RLAB

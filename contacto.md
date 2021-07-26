@@ -25,11 +25,11 @@ Fingerprint:
 
 # Redes sociales
 
-[Twitter](https://twitter.com/rlyehlab)
+[Twitter](https://twitter.com/_rlab)
 
 # Grupo de Telegram
 
-El Grupo de telegram es público sumate en [@RlyehLab](https://t.me/RlyehLab)
+El Grupo de telegram es público sumate en [@rhacklab](https://t.me/rhacklab)
 
 
 

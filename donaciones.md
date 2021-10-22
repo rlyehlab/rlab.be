@@ -21,10 +21,10 @@ revelamos nombres o filiaciones, sino la cantidad de bonistas.
 
 # Bonos mensuales
 
-El bono mensual es por un monto superior a $500 , hoy tenemos hackers pagando
-bonos de $500 y de $1000, si queres aportar con otro valor avisanos!
+El bono mensual es por un monto igual o superior a $500 , hoy tenemos hackers pagando
+bonos de $500, $1000 y $2000; si queres aportar con otro valor avisanos!
 
-{% include donations-monthly.html %}
+*--- Las donaciones online se encuentran deshabilitadas por el momento ---*
 
 # Donaciones económicas esporádicas
 
@@ -32,15 +32,13 @@ Tenemos nuestra cajita de donaciones, o podes dárselo a alguno de las
 sudoers en el espacio. Todos los
 montos nos ayudan a mantener el espacio, aporta cuando puedas :D <3
 
-{% include donations-once.html %}
-
+*--- Las donaciones online se encuentran deshabilitadas por el momento ---*
 
 # Donaciones de equipos/materiales
 
 Si es chiquito (tamaño router/raspie) traelo !!! si es mas grande por favor
 avisanos, como tenemos espacio reducido, hay que tener cuidado de no meter
 muchas cosas.
-
 
 Aceptamos distintas cryptomonedas, pero para eso contactate con nosotras por
 alguno de los [medios donde estamos](/contacto).

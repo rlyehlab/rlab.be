@@ -7,8 +7,7 @@ nav_text: "Contacto"
 nav_order: 7
 ---
 
-Los medios oficiales de comunicación son el email de contacto, el canal de irc,
-las redes sociales y el canal de telegram.
+Los medios oficiales de comunicación son por email, telegram o twitter:
 
 # Email de contacto
 
@@ -21,15 +20,15 @@ Llave PGP:
 Fingerprint:   
 7ACA 6B87 E24D B852 F98D  BF1A 48B2 FD5B 3810 9A87
 
+# Telegram
 
+Podés hablarnos por el grupo público de telegram [@rhacklab](https://t.me/rhacklab)
 
-# Redes sociales
+O por chat privado a través del bot [@rlab_chat_bot](https://t.me/rlab_chat_bot)
 
-[Twitter](https://twitter.com/_rlab)
+# Twitter
 
-# Grupo de Telegram
-
-El Grupo de telegram es público sumate en [@rhacklab](https://t.me/rhacklab)
+Mandanos mensaje privado a [@_rlab](https://twitter.com/_rlab)
 
 
 

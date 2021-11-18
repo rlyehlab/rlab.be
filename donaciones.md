@@ -24,7 +24,7 @@ revelamos nombres o filiaciones, sino la cantidad de bonistas.
 El bono mensual es por un monto igual o superior a $500 , hoy tenemos hackers pagando
 bonos de $500, $1000 y $2000; si queres aportar con otro valor avisanos!
 
-*--- Las donaciones online se encuentran deshabilitadas por el momento ---*
+{% include donaciones-mensuales.html %}
 
 # Donaciones económicas esporádicas
 
@@ -32,7 +32,7 @@ Tenemos nuestra cajita de donaciones, o podes dárselo a alguno de las
 sudoers en el espacio. Todos los
 montos nos ayudan a mantener el espacio, aporta cuando puedas :D <3
 
-*--- Las donaciones online se encuentran deshabilitadas por el momento ---*
+{% include donaciones-unicas.html %}
 
 # Donaciones de equipos/materiales
 

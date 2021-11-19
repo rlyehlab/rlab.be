@@ -11,46 +11,53 @@ El hacklab es un espacio independiente y autosustentado, no recibimos dinero de
 ninguna organización, por lo que dependemos de las donaciones para seguir
 abiertos.
 
-Manejamos dos tipos de donaciones:
+Hay varias formas en las que nos podés ayudar, entre ellas se encuentra la 
+donación de materiales o la donación de dinero.
 
-  * Bonos mensuales
-  * Donaciones esporádicas
+# Donaciones de materiales/equipos
+Si es chiquito (tamaño router/raspie) traelo !!! si es mas grande por favor
+avisanos, como tenemos espacio reducido, hay que tener cuidado de no meter
+muchas cosas.
 
-Todas las donaciones son anónimas, cuando publicamos nuestro balance no
-revelamos nombres o filiaciones, sino la cantidad de bonistas.
+# Donaciones de dinero
+Manejamos tres medios de pago de donaciones (en orden de preferencia):
+* Efectivo
+* Mercado Pago
+* Criptomonedas
 
-# Bonos mensuales
+## Efectivo
+Tenemos nuestro chanchito de donaciones que suele estar cerca de los servidores.
+Podés dejar ahí o darle directamente a alguna de las encargadas en el espacio.
+Si dejás más de $1000 te pedimos que nos avises así estamos al tanto.
+
+Todos los montos nos ayudan a mantener el espacio, aporta cuando puedas :D <3
+
+## Mercado Pago
+### Bonos mensuales
 
 El bono mensual es por un monto igual o superior a $500 , hoy tenemos hackers pagando
 bonos de $500, $1000 y $2000; si queres aportar con otro valor avisanos!
 
 {% include donaciones-mensuales.html %}
 
-# Donaciones económicas esporádicas
-
-Tenemos nuestra cajita de donaciones, o podes dárselo a alguno de las
-sudoers en el espacio. Todos los
-montos nos ayudan a mantener el espacio, aporta cuando puedas :D <3
+### Bonos únicos
 
 {% include donaciones-unicas.html %}
 
-# Donaciones de equipos/materiales
-
-Si es chiquito (tamaño router/raspie) traelo !!! si es mas grande por favor
-avisanos, como tenemos espacio reducido, hay que tener cuidado de no meter
-muchas cosas.
-
-Aceptamos distintas cryptomonedas, pero para eso contactate con nosotras por
-alguno de los [medios donde estamos](/contacto).
-
+## Criptomonedas
+Aceptamos muchas tokens! Podés visitar el listado completo de nuestras [criptobilleteras](/criptobilleteras).
 
 # Política de transparencia
-
 Nuestra intención es que el manejo de las
 finanzas sea transparente, por eso
-vamos a publicar los balances mensuales con el mayor detalle posible sin
-comprometer la privacidad de las donantes. Por ahora generar los balances es una
-tarea manual, así que puede ser que tardemos en publicar los balances porque
-lleva tiempo y depende del tiempo que puedan dedicar las leprechauns.
+publicamos los balances mensuales con el mayor detalle posible sin
+comprometer la privacidad de las donantes.
+
+Los balances los generamos con Domina, una bot de telegram. Podés acceder a su
+[página web](https://domino.rlab.be/) para mirarlos.
+
+Cuando publicamos nuestro balance mantenemos el anonimato de les donantes,
+no revelamos nombres o filiaciones, sino la cantidad de bonistas.
+
 Si creés que faltan datos o querés preguntarnos algo, podés
 [contactarte con nosotras](/contacto).

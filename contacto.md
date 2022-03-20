@@ -22,7 +22,7 @@ Fingerprint:
 
 # Telegram
 
-Podés hablarnos por el grupo público de telegram [@rhacklab](https://t.me/rhacklab)
+Seguí las novedades del lab en el canal News [@rhacklab](https://t.me/rlyehNews)
 
 O por chat privado a través del bot [@rlab_chat_bot](https://t.me/rlab_chat_bot)
 

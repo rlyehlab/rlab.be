@@ -22,7 +22,7 @@ Fingerprint:
 
 # Telegram
 
-Seguí las novedades del lab en el canal News [@rhacklab](https://t.me/rlyehNews)
+Seguí las novedades del lab en el canal News [@rlyehNews](https://t.me/rlyehNews)
 
 O por chat privado a través del bot [@rlab_chat_bot](https://t.me/rlab_chat_bot)
 

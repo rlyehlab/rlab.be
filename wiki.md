@@ -4,7 +4,8 @@ title: Wiki
 permalink: /wiki/
 group: navigation
 nav_text: "Wiki"
-nav_order: 4
+nav_order: 3
+pagina_externa: https://wiki.rlab.be/
 ---
 
 Finalmente pudimos recuperar el proyecto wiki del lab!

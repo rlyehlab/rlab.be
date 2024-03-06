@@ -4,7 +4,7 @@ title: Códigos de convivencia
 permalink: /codigos/
 group: navigation
 nav_text: "Códigos"
-nav_order: 3
+nav_order: 4
 ---
 
 #~
@@ -47,8 +47,6 @@ Entre muchas otras consideramos como acoso a:
 - Contacto físico inapropiado.
 - Atención sexual indeseada.
 - Promover o fomentar cualquiera de las anteriores.
-
-Si ves que alguien está siendo acosada/o por favor seguir el [protocolo de conflictos interno](https://wiki.rlab.be/doku.php?id=conflictos).
 
 Si estas siendo acosada, por favor primero pedile que pare; si no lo hace, pedile que se vaya y
 buscá a una persona de confianza que te pueda ayudar.

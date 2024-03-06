@@ -46,18 +46,3 @@ bonos de $500, $1000 y $2000; si queres aportar con otro valor avisanos!
 
 ## Criptomonedas
 Aceptamos muchas tokens! Podés visitar el listado completo de nuestras [criptobilleteras](/criptobilleteras).
-
-# Política de transparencia
-Nuestra intención es que el manejo de las
-finanzas sea transparente, por eso
-publicamos los balances mensuales con el mayor detalle posible sin
-comprometer la privacidad de las donantes.
-
-Los balances los generamos con Domina, una bot de telegram. Podés acceder a su
-[página web](https://domino.rlab.be/) para mirarlos.
-
-Cuando publicamos nuestro balance mantenemos el anonimato de les donantes,
-no revelamos nombres o filiaciones, sino la cantidad de bonistas.
-
-Si creés que faltan datos o querés preguntarnos algo, podés
-[contactarte con nosotras](/contacto).

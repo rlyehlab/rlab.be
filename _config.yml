@@ -15,7 +15,7 @@ theme: minima
 include:
   - .well-known
   - assets/images/opengraph.jpg
-plugins:
+#plugins:
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

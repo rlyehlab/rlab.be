@@ -35,8 +35,8 @@ Todos los montos nos ayudan a mantener el espacio, aporta cuando puedas :D <3
 ## Mercado Pago
 ### Bonos mensuales
 
-El bono mensual es por un monto igual o superior a $500 , hoy tenemos hackers pagando
-bonos de $500, $1000 y $2000; si queres aportar con otro valor avisanos!
+El bono mensual es por un monto igual o superior a $1000 , hoy tenemos hackers pagando
+bonos de $1000, $2000 y $5000; si queres aportar con otro valor avisanos!
 
 {% include donaciones-mensuales.html %}
 

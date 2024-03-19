@@ -7,6 +7,7 @@ permalink: /criptobilleteras/
 ## Criptobilleteras del lab
 ### BTC
 - address: 1GxaXYrYK4Dkb4UmKHidAYKnkZdDk4b26Q
+- ![](/cripto-btc.png)
 - status: [https://bitcoinblockexplorers.com/address/1GxaXYrYK4Dkb4UmKHidAYKnkZdDk4b26Q](https://bitcoinblockexplorers.com/address/1GxaXYrYK4Dkb4UmKHidAYKnkZdDk4b26Q)
 
 ### DOGECOIN
@@ -15,6 +16,7 @@ permalink: /criptobilleteras/
 
 ### ETH
 - address: 0xB4236c8cE2e59eEc92d3671D847Ba7506580AC38
+- ![](/cripto-eth.png)
 - status: [https://ethblockexplorer.org/address/0xB4236c8cE2e59eEc92d3671D847Ba7506580AC38](https://ethblockexplorer.org/address/0xB4236c8cE2e59eEc92d3671D847Ba7506580AC38)
 
 ### SHIBA INU
@@ -41,3 +43,8 @@ permalink: /criptobilleteras/
 ### USDC
 - address: 0xB4236c8cE2e59eEc92d3671D847Ba7506580AC38
 - status: [https://ethblockexplorer.org/address/0xB4236c8cE2e59eEc92d3671D847Ba7506580AC38](https://ethblockexplorer.org/address/0xB4236c8cE2e59eEc92d3671D847Ba7506580AC38)
+
+### XMR (Monero)
+- address: 4A8mBrVpsmH65uDii7DxMgNpbHtN7UBttdcnMjQiB2a2cQPzo4cEb7pHNEMHf7zntyUwSzNKqg8ULD8Mr7LwcyHYVJpimYv
+- ![](/cripto-xmr.png)
+- status: [https://xmrblockexplorer.org/search?value=4A8mBrVpsmH65uDii7DxMgNpbHtN7UBttdcnMjQiB2a2cQPzo4cEb7pHNEMHf7zntyUwSzNKqg8ULD8Mr7LwcyHYVJpimYv](https://xmrblockexplorer.org/search?value=4A8mBrVpsmH65uDii7DxMgNpbHtN7UBttdcnMjQiB2a2cQPzo4cEb7pHNEMHf7zntyUwSzNKqg8ULD8Mr7LwcyHYVJpimYv)

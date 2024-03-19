@@ -15,7 +15,7 @@ Hay varias formas en las que nos podés ayudar, entre ellas se encuentra la
 donación de materiales o la donación de dinero.
 
 # Donaciones de materiales/equipos
-Si es chiquito (tamaño router/raspie) traelo !!! si es mas grande por favor
+Si es chiquito (tamaño rúter/raspi) traelo !!! si es mas grande por favor
 avisanos, como tenemos espacio reducido, hay que tener cuidado de no meter
 muchas cosas.
 
@@ -43,6 +43,11 @@ bonos de $1000, $2000 y $5000; si queres aportar con otro valor avisanos!
 ### Bonos únicos
 
 {% include donaciones-unicas.html %}
+
+### Bono libre
+
+También podés ingresar el monto libremente, por pago único, en el siguiente link:
+[link.mercadopago.com.ar/rlab](https://link.mercadopago.com.ar/rlab)
 
 ## Criptomonedas
 Aceptamos muchas tokens! Podés visitar el listado completo de nuestras [criptobilleteras](/criptobilleteras).

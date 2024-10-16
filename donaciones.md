@@ -22,7 +22,7 @@ muchas cosas.
 # Donaciones de dinero
 Manejamos tres medios de pago de donaciones (en orden de preferencia):
 * Efectivo
-* Mercado Pago
+* Transferencia bancaria
 * Criptomonedas
 
 ## Efectivo
@@ -32,22 +32,10 @@ Si dejás más de $1000 te pedimos que nos avises así estamos al tanto.
 
 Todos los montos nos ayudan a mantener el espacio, aporta cuando puedas :D <3
 
-## Mercado Pago
-### Bonos mensuales
+## Transferencia bancaria
 
-El bono mensual es por un monto igual o superior a $1000 , hoy tenemos hackers pagando
-bonos de $1000, $2000 y $5000; si queres aportar con otro valor avisanos!
-
-{% include donaciones-mensuales.html %}
-
-### Bonos únicos
-
-{% include donaciones-unicas.html %}
-
-### Bono libre
-
-También podés ingresar el monto libremente, por pago único, en el siguiente link:
-[link.mercadopago.com.ar/rlab](https://link.mercadopago.com.ar/rlab)
+Recibimos donaciones con el alias **rlab.donaciones**
+(figura a nombre de *Marcelo Ferrarotti*)
 
 ## Criptomonedas
 Aceptamos muchas tokens! Podés visitar el listado completo de nuestras [criptobilleteras](/criptobilleteras).

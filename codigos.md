@@ -12,7 +12,7 @@ nav_order: 4
 ## Código de conducta
 
 - Lo que ensucias, lo lavás.
-- Lo que rompés o encontrás roto reportalo en el grupo de Telegram pertinente y dejá asentado en el pizarrón con la fecha.
+- Lo que rompés o encontrás roto reportalo en el grupo de Telegram pertinente y dejalo asentado en el pizarrón con la fecha.
 - Todas las actividades en el lab son gratuitas, y las donaciones son para el lab.
 - Usá internet con responsabilidad, por favor no utilices torrent por que nos quedamos todas con menos ancho de banda, no hostees contenido ilegal, ni hagas ingresos ilegítimos desde la IP del lab a sistemas informáticos a los que no tenes permiso explicito.
 - No podés dormir en el lab, menos mudarte, pero podés descansar por tiempo prolongado, sobre todo si estás en medio de un hackathon o si se te hizo tarde y estás esperando el subte :).

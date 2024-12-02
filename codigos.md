@@ -32,7 +32,7 @@ nav_order: 4
 - Somos defensores de la cultura, hardware y software libre, por lo tanto toda herramienta que se desarrolle en el espacio tiene que ser libre.
 - Usamos la adhocracia, si ves que hay que hacer algo, hacelo :)
 - No se aceptan actividades de partidos políticos.
-- Cada tentáculo se reserva el derecho de gestionar, a su criterio, la publicación de avisos de compra y venta de artículos o servicios. Estas transacciones deberán ser acordadas exclusivamente a través de mensajería privada y serán completamente ajenas al RLab.
+- Cada tentáculo puede, a su criterio, reservarse el derecho de gestionar la publicación de compra, venta de artículos o servicios en red de pares sin necesidad de plataformas intermediarias. Estas transacciones deberán ser acordadas por mensajería privada de las personas que lo deseen y serán completamente ajenas al RLab.
 
 ## Código antiacoso
 

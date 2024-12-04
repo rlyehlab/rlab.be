@@ -34,8 +34,8 @@ Todos los montos nos ayudan a mantener el espacio, aporta cuando puedas :D <3
 
 ## Transferencia bancaria
 
-Recibimos donaciones con el alias **rlab.donaciones**
-(figura a nombre de *Marcelo Ferrarotti*)
+Recibimos donaciones con el alias **rlabdonaciones**
+(figura a nombre de *Nicolás*)
 
 ## Criptomonedas
-Aceptamos muchas tokens! Podés visitar el listado completo de nuestras [criptobilleteras](/criptobilleteras).
+Aceptamos usdt-erc20 0x73b5025a0c8390ac96862a4c84bd326cbbdaceb2

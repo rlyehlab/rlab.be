@@ -17,14 +17,14 @@ donación de materiales o la donación de dinero.
 # Donaciones de dinero
 Todos los montos nos ayudan a mantener el espacio, aporta cuando puedas :D <3
 
+## Transferencia bancaria
+Recibimos donaciones con el alias **rlabdonaciones**
+(figura a nombre de *Nicolás*)
+
 ## Efectivo
 Tenemos nuestro chanchito de donaciones que suele estar cerca de los servidores.
 Podés dejar ahí o darle directamente a alguna de las encargadas en el espacio.
 Si dejás más de $1000 te pedimos que nos avises así estamos al tanto.
-
-## Transferencia bancaria
-Recibimos donaciones con el alias **rlabdonaciones**
-(figura a nombre de *Nicolás*)
 
 ## Criptomonedas
 Aceptamos usdt-erc20 0x73b5025a0c8390ac96862a4c84bd326cbbdaceb2

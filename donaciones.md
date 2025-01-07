@@ -19,7 +19,7 @@ Todos los montos nos ayudan a mantener el espacio, aporta cuando puedas :D <3
 
 ## Transferencia bancaria
 Recibimos donaciones con el siguiente alias: 
-#### **rlabdonaciones**
+### **rlabdonaciones**
 (figura a nombre de *Nicolás*)
 
 ## Efectivo

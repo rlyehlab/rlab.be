@@ -30,6 +30,6 @@ sumarte y acercarte a conocernos. También estamos abiertxs a nuevas propuestas
 de actividades o proyectos físicos o virtuales.
 El lab está ubicado en Av. Forest y Maure en el barrio de Chacarita (CABA) cerca
 del subte B, estación Lacroze. Podés pedir la dirección exacta por privado.
-
+cari was here
 Funcionamos con un sistema de [donaciones](/donaciones/), si querés ayudarnos a que el 
 espacio siga abierto podes hacerlo con bonos mensuales o en formato de donación esporádica.
